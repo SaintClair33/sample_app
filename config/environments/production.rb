@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 MysneaksWonu::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb
+=======
+SampleApp::Application.configure do
+  # Settings specified here will take precedence over those in config/environment.rb
+>>>>>>> bedcec912c9fea96e0d1a45164b4bf4d264b8372
 
   # The production environment is meant for finished, "live" apps.
   # Code is not reloaded between requests

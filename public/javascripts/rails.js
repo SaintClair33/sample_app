@@ -172,6 +172,7 @@
       input.disabled = false;
     });
   });
+<<<<<<< HEAD
 
   Ajax.Responders.register({
     onCreate: function(request) {
@@ -188,4 +189,6 @@
       }
     }
   });
+=======
+>>>>>>> bedcec912c9fea96e0d1a45164b4bf4d264b8372
 })();
